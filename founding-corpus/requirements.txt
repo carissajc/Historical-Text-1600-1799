@@ -1,0 +1,16 @@
+datasets
+requests
+tqdm
+lxml
+beautifulsoup4
+regex
+ftfy
+Unidecode
+datasketch
+python-levenshtein
+pandas
+pyarrow
+tokenizers
+sentencepiece
+orjson
+xxhash

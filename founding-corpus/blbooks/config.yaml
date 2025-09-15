@@ -1,0 +1,9 @@
+mode: auto
+config_name: 1700_1799
+year_min: 1730
+year_max: 1779
+languages: [English]
+skip_empty_pages: true
+near_dup_thresh: 0.8
+shard_size_books: 1000
+compression: snappy

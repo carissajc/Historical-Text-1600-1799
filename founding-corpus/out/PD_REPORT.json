@@ -1,0 +1,65 @@
+[
+  {
+    "work": "Blackstone\u2019s Commentaries on the Laws of England",
+    "status": "public_domain",
+    "recommended_sources": [
+      {
+        "host": "HathiTrust",
+        "url": "https://catalog.hathitrust.org/Search/Home?lookfor=blackstone%20commentaries&type=title",
+        "note": "Multiple pd/pdus volumes"
+      },
+      {
+        "host": "Internet Archive",
+        "url": "https://archive.org/search.php?query=title%3A%28commentaries%20on%20the%20laws%20of%20england%29%20creator%3A%28Blackstone%29",
+        "note": "Scans of original and 19th\u2011c editions"
+      },
+      {
+        "host": "Liberty Fund (OLL)",
+        "url": "https://oll.libertyfund.org/",
+        "note": "Sharswood edition (PD)"
+      }
+    ]
+  },
+  {
+    "work": "Samuel Johnson\u2019s A Dictionary of the English Language (1755)",
+    "status": "public_domain",
+    "recommended_sources": [
+      {
+        "host": "HathiTrust",
+        "url": "https://catalog.hathitrust.org/Search/Home?lookfor=johnson%20dictionary&type=title",
+        "note": "Original 1755/18th\u2011c scans (pd/pdus)"
+      },
+      {
+        "host": "Internet Archive",
+        "url": "https://archive.org/search.php?query=title%3A%28A%20Dictionary%20of%20the%20English%20Language%29%20creator%3A%28Johnson%29",
+        "note": "Scans of original editions"
+      },
+      {
+        "host": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=Johnson+Dictionary",
+        "note": "PD texts; verify source edition"
+      }
+    ]
+  },
+  {
+    "work": "The Statutes of the Realm (1810\u20131825 volumes)",
+    "status": "public_domain",
+    "recommended_sources": [
+      {
+        "host": "HathiTrust",
+        "url": "https://catalog.hathitrust.org/Search/Home?lookfor=statutes%20of%20the%20realm&type=title",
+        "note": "Volumes with pd/pdus rights codes"
+      },
+      {
+        "host": "Internet Archive",
+        "url": "https://archive.org/search.php?query=title%3A%28statutes%20of%20the%20realm%29%20creator%3A%28Great%20Britain%29",
+        "note": "Multiple scans"
+      },
+      {
+        "host": "British History Online",
+        "url": "https://www.british-history.ac.uk/statutes-realm",
+        "note": "Useful transcriptions; confirm site terms"
+      }
+    ]
+  }
+]

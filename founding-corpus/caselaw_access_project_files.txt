@@ -1,0 +1,188 @@
+CASELAW ACCESS PROJECT - HISTORICAL LEGAL SOURCES
+==================================================
+
+This document lists historical legal sources available through the Caselaw Access Project
+that contain colonial and early American legal decisions (pre-1800).
+
+VIRGINIA SOURCES:
+-----------------
+1. Va. Col. Dec.: Virginia Colonial Decisions (1729-1741)
+   URL: https://static.case.law/va-col-dec/
+   Coverage: Early colonial Virginia court decisions
+
+2. Va. Ch. Dec.: Decisions of the Cases in Virginia, by the High Court of Chancery (Wythe) (1788-1799)
+   Coverage: Virginia Chancery Court decisions during the Revolutionary period
+
+3. Va.: Virginia Reports (1779-2004) - Volume 1 alone
+   Coverage: Early Virginia Supreme Court decisions
+
+4. Jeff.: Jefferson (1730-1772)
+   Coverage: Colonial Virginia decisions during Jefferson's early years
+
+VERMONT SOURCES:
+----------------
+5. D. Chip.: Chipman, D. (1789-1825) volume 1
+   Coverage: Early Vermont legal decisions
+
+6. N. Chip.: Chipman, N. (1780-1791)
+   Coverage: Vermont decisions during the Revolutionary period
+
+FEDERAL SOURCES:
+----------------
+7. U.S.: United States Reports (1754-2014) - volumes 1 through 4
+   Coverage: Early Supreme Court decisions and colonial cases
+   Note: These volumes contain some of the earliest American legal precedents
+
+TENNESSEE SOURCES:
+------------------
+8. Tennessee Reports (1791-1972) - volume 1
+   Coverage: Early Tennessee state court decisions
+
+SOUTH CAROLINA SOURCES:
+-----------------------
+9. South Carolina Law Reports (1783-1868) - volumes 1, 2, 3
+   Coverage: Early South Carolina legal decisions
+
+10. South Carolina Equity Reports (1784-1868) - volume 1
+    Coverage: South Carolina equity court decisions
+
+11. Records of the Court of Chancery of South Carolina (1671-1779) (1700-1779)
+    Coverage: Colonial South Carolina chancery records
+
+PENNSYLVANIA SOURCES:
+---------------------
+12. Reports of cases adjudged in the Supreme Court of Pennsylvania (Yeates) (1791-1808) - volumes 1 and 2
+    Coverage: Early Pennsylvania Supreme Court decisions
+
+13. Judgements in the Admiralty of Pennsylvania in four suits, brought as for maritime hypothecations (1783-1788)
+    Coverage: Early American admiralty law decisions
+
+14. Dallas (1759-1789) - volume 1
+    Coverage: Pennsylvania Supreme Court decisions during the colonial period
+
+15. Reports of cases adjudged in the Supreme Court of Pennsylvania (Binney) (1799-1814) - volume 1
+    Coverage: Pennsylvania decisions at the turn of the 19th century
+
+16. Addison (1791-1799)
+    Coverage: Pennsylvania Supreme Court decisions during the 1790s
+
+FEDERAL CASES (SKIPPED):
+-------------------------
+17. F. Cas.: Federal Cases (1779-1894)
+    Note: SKIPPED - volumes not in chronological order
+    Plan: Return to this source later when chronological organization is available
+
+CRIMINAL CASES:
+---------------
+18. Wheeler's Criminal Cases (1791-1825) - volume 1
+    Coverage: Early American criminal law decisions
+
+NEW YORK SOURCES:
+-----------------
+19. Lockwood's Reversed Cases (1799-1836)
+    Coverage: New York appellate decisions and reversed cases
+
+20. Coleman & Caines' Cases (1794-1805)
+    Coverage: New York Supreme Court decisions during the early republic
+
+21. Caines' Cases (1796-1805)
+    Coverage: New York legal decisions at the turn of the 19th century
+
+22. Armstrong's Contested Election Cases in New York (1778-1871)
+    Coverage: New York election law and contested election cases
+
+NEW JERSEY SOURCES:
+-------------------
+23. New Jersey Law Reports (1789-1948) - volume 1
+    Coverage: Early New Jersey legal decisions
+
+24. Cases Adjudged in the Supreme Court of New-Jersey Relative to the Manumission of Negroes and Others Holden in Bondage (1775-1793)
+    Coverage: New Jersey slavery and manumission cases during the Revolutionary period
+
+NEW HAMPSHIRE SOURCES:
+-----------------------
+25. Decisions of the Superior and Supreme Courts of New Hampshire (1796-1815)
+    Coverage: New Hampshire court decisions from the late 18th to early 19th century
+
+MASSACHUSETTS SOURCES:
+-----------------------
+26. Reports of cases argued and adjudged in the Superior Court of Judicature of the Province of Massachusetts Bay (1761-1776)
+    Coverage: Colonial Massachusetts court decisions during the pre-Revolutionary period
+
+27. Reports of controverted elections in the House of representatives, of the commonwealth of Massachusetts (1781-1852)
+    Coverage: Massachusetts election law and contested election cases
+
+28. Records of the Suffolk county court (1671-1680)
+    Coverage: Early colonial Massachusetts county court records
+
+29. Massachusetts Reports (1768-2017)
+    Coverage: Massachusetts Supreme Judicial Court decisions
+
+KENTUCKY SOURCES:
+-----------------
+30. Kentucky Reports (1718-1951) - volume 1
+    Coverage: Early Kentucky legal decisions
+
+DELAWARE SOURCES:
+-----------------
+31. Delaware Cases (1770-1832)
+    Coverage: Delaware court decisions from the colonial period through the early republic
+
+CONNECTICUT SOURCES:
+--------------------
+32. Connecticut Reports (1764-1795)
+    Coverage: Connecticut court decisions during the colonial and Revolutionary periods
+
+33. Connecticut Reports (1785-1789)
+    Coverage: Connecticut court decisions during the critical period leading to the Constitution
+
+CHRONOLOGICAL COVERAGE SUMMARY:
+------------------------------
+• 1671-1680: Suffolk County Court (Massachusetts)
+• 1671-1779: South Carolina Chancery Records
+• 1718-1951: Kentucky Reports
+• 1729-1741: Virginia Colonial Decisions  
+• 1730-1772: Jefferson (Virginia)
+• 1754-1789: Dallas (Pennsylvania)
+• 1759-1789: Dallas (Pennsylvania)
+• 1761-1776: Massachusetts Superior Court
+• 1764-1795: Connecticut Reports
+• 1768-2017: Massachusetts Reports
+• 1770-1832: Delaware Cases
+• 1775-1793: New Jersey Manumission Cases
+• 1775-1852: Massachusetts Contested Elections
+• 1778-1871: New York Contested Elections
+• 1779-1791: N. Chipman (Vermont)
+• 1781-1852: Massachusetts Contested Elections
+• 1783-1788: Pennsylvania Admiralty
+• 1783-1868: South Carolina Law Reports
+• 1784-1868: South Carolina Equity Reports
+• 1785-1789: Connecticut Reports (additional coverage)
+• 1788-1799: Virginia Chancery (Wythe)
+• 1789-1825: D. Chipman (Vermont)
+• 1789-1948: New Jersey Law Reports
+• 1791-1799: Addison (Pennsylvania)
+• 1791-1805: Coleman & Caines (New York)
+• 1791-1808: Pennsylvania Supreme Court (Yeates)
+• 1791-1814: Pennsylvania Supreme Court (Binney)
+• 1791-1825: Wheeler's Criminal Cases
+• 1791-1972: Tennessee Reports
+• 1794-1805: Coleman & Caines (New York)
+• 1796-1805: Caines (New York)
+• 1796-1815: New Hampshire Superior/Supreme Courts
+• 1799-1836: Lockwood's Reversed Cases (New York)
+
+TOTAL SOURCES: 33
+CHRONOLOGICAL SPAN: 1671-1871
+FOCUS PERIOD: 1671-1799 (colonial and early republic)
+
+NOTES:
+------
+- All sources contain actual historical legal decisions, not modern case numbers
+- Sources are primarily from the colonial and early American period (pre-1800)
+- Coverage includes state courts, federal courts, and specialized courts (chancery, admiralty)
+- These sources will provide authentic historical legal language and precedents
+- Perfect for training a historical legal language model
+- Expanded coverage now includes 13 colonial states/territories
+- Significant coverage of slavery, manumission, and election law cases
+- Includes both published reports and manuscript court records 

@@ -1,0 +1,41 @@
+Work: Blackstone’s Commentaries on the Laws of England
+Summary finding: Public domain in the U.S. for the original 1765–1769 editions and 19th‑century editions (e.g., Sharswood). Avoid modern annotated editions that add new copyrighted material. Prefer facsimile scans (HathiTrust/IA) or Liberty Fund’s Sharswood edition.
+Links inspected:
+- https://catalog.hathitrust.org/api/volumes/brief/json/Blackstone%20Commentaries%20on%20the%20Laws%20of%20England
+- https://archive.org/advancedsearch.php?q=title%3A%28commentaries%20on%20the%20laws%20of%20england%29%20AND%20creator%3A%28blackstone%29&output=json&rows=5
+- https://www.googleapis.com/books/v1/volumes?q=Blackstone%20Commentaries%201765
+Rights statements (quoted/summarized):
+- Internet Archive: id=commentariesonl03rylagoog title=Commentaries on the laws of England : in four books ; with an analysis of the work license=None; id=commentariesonla0000sirw_v1t3 title=commentaries on the laws of england book 2 license=None; id=commentariesonla00blac_0 title=Commentaries on the laws of England license=None; id=commentariesonla01blac title=Commentaries on the laws of England license=None; id=bim_eighteenth-century_commentaries-on-the-law_blackstone-sir-william_1770 title=[Commentaries on the laws of England. vol. 4]. Commentaries on the laws of England. Book the fourth. By William Blackstone, ... 1770 license=None
+- Google Books: title=Commentaries on the Laws of England, Volume 4 publicDomain=False viewability=PARTIAL; title=Commentaries on the Laws of England, Volume 3 publicDomain=False viewability=PARTIAL; title=Commentaries on the Laws of England publicDomain=False viewability=NO_PAGES; title=Commentaries on the Laws of England, Volume 1 publicDomain=False viewability=PARTIAL; title=The American Students' Blackstone publicDomain=False viewability=NO_PAGES
+Conclusion & recommended sources:
+- HathiTrust: https://catalog.hathitrust.org/Search/Home?lookfor=blackstone%20commentaries&type=title (Multiple pd/pdus volumes)
+- Internet Archive: https://archive.org/search.php?query=title%3A%28commentaries%20on%20the%20laws%20of%20england%29%20creator%3A%28Blackstone%29 (Scans of original and 19th‑c editions)
+- Liberty Fund (OLL): https://oll.libertyfund.org/ (Sharswood edition (PD))
+
+Work: Samuel Johnson’s A Dictionary of the English Language (1755)
+Summary finding: Public domain in the U.S. for the 1755 and other 18th‑century editions. Use facsimiles from HathiTrust/IA. Avoid modern annotated/retypeset editions that add new copyrighted material. Project Gutenberg also hosts PD texts.
+Links inspected:
+- https://catalog.hathitrust.org/api/volumes/brief/json/Johnson%20Dictionary%201755
+- https://archive.org/advancedsearch.php?q=title%3A%28A%20Dictionary%20of%20the%20English%20Language%29%20AND%20creator%3A%28Johnson%29&output=json&rows=5
+- https://www.googleapis.com/books/v1/volumes?q=Johnson%20Dictionary%20of%20the%20English%20Language%201755
+Rights statements (quoted/summarized):
+- Internet Archive: id=dictionaryofengl01john title=A Dictionary of the English language : in which the words are deduced from their originals, explained in their different meanings, and authorized by the names of the writers in whose works they are found license=None; id=bim_eighteenth-century_a-dictionary-of-the-engl_johnson-samuel_1799_2 title=A dictionary of the English language; in which the words are deduced from their originals, explained in their different meanings, ... Abstracted from the folio edition, by the author, Samuel Johnson, LL.D. To which is prefixed a grammar of the English language. 1799: Vol 2 license=None; id=bim_eighteenth-century_a-dictionary-of-the-engl_johnson-samuel_1777 title=A dictionary of the English language: in which the words are deduced from their originals, and illustrated in their different significations by examples from the best writers. To which are prefixed, a history of the language, and an English grammar. By Samuel Johnson. In two volumes. ... 1777 license=None; id=bim_eighteenth-century_a-dictionary-of-the-engl_johnson-samuel_1773_2 title=A dictionary of the English language: in which the words are deduced from their originals, explained in their different meanings, ... Abstracted from the folio edition, by the author Samuel Johnson, A.M. To which is prefixed, A grammar of the English language. In two volumes. ... 1773: Vol 2 license=None; id=bim_eighteenth-century_a-dictionary-of-the-engl_johnson-samuel-lld_1755_1 title=A dictionary of the English language: in which the words are deduced from their originals, and illustrated in their different significations by examples from the best writers, To which are prefixed, a history of the language, and an English grammar. By Samuel Johnson, A.M. In two volumes. 1755: Vol 1 license=None
+- Google Books: title=A Dictionary Of The English Language publicDomain=True viewability=ALL_PAGES; title=A Dictionary of the English Language publicDomain=True viewability=ALL_PAGES; title=Samuel Johnson's Dictionary publicDomain=False viewability=NO_PAGES; title=Samuel Johnson's Dictionary publicDomain=False viewability=NO_PAGES; title=Dictionary of The English Language publicDomain=False viewability=PARTIAL
+Conclusion & recommended sources:
+- HathiTrust: https://catalog.hathitrust.org/Search/Home?lookfor=johnson%20dictionary&type=title (Original 1755/18th‑c scans (pd/pdus))
+- Internet Archive: https://archive.org/search.php?query=title%3A%28A%20Dictionary%20of%20the%20English%20Language%29%20creator%3A%28Johnson%29 (Scans of original editions)
+- Project Gutenberg: https://www.gutenberg.org/ebooks/search/?query=Johnson+Dictionary (PD texts; verify source edition)
+
+Work: The Statutes of the Realm (1810–1825 volumes)
+Summary finding: Public domain in the U.S. for the original printed volumes (1810–1825) covering earlier statutes. Prefer facsimile scans from HathiTrust/Internet Archive. British History Online provides transcriptions under their site terms; use scans when possible for unrestricted reuse.
+Links inspected:
+- https://catalog.hathitrust.org/api/volumes/brief/json/Statutes%20of%20the%20Realm%201810
+- https://archive.org/advancedsearch.php?q=title%3A%28statutes%20of%20the%20realm%29%20AND%20creator%3A%28Great%20Britain%29&output=json&rows=5
+- https://www.british-history.ac.uk/statutes-realm
+Rights statements (quoted/summarized):
+- Internet Archive: id=ordershighcourt00sandgoog title=Orders of the High Court of Chancery, and statutes of the realm relating to chancery : from the earliest period to the present time. Vol I. Orders license=None; id=pp63095168 title=The statutes of the realm [1101-1713] : printed by command of his majesty King George the Third ; in pursuance of an address of the House of Commons of Great Britain ; from original records and authentic manuscripts license=http://creativecommons.org/licenses/by-nc-nd/3.0/; id=pp63095195 title=The statutes of the realm [1101-1713] : printed by command of his majesty King George the Third ; in pursuance of an address of the House of Commons of Great Britain ; from original records and authentic manuscripts license=http://creativecommons.org/licenses/by-nc-nd/3.0/; id=pp63095186 title=The statutes of the realm [1101-1713] : printed by command of his majesty King George the Third ; in pursuance of an address of the House of Commons of Great Britain ; from original records and authentic manuscripts license=http://creativecommons.org/licenses/by-nc-nd/3.0/; id=statutesrealm01etcgoog title=The statutes of the realm : Printed by command of His Majesty King George the Third. In pursuance of an address of the House of Commons of Great Britain. From original records and authentic manuscripts .. license=None
+- BHO hosts transcriptions; original print (1810–1825) is PD, but BHO site terms may apply to their markup.
+Conclusion & recommended sources:
+- HathiTrust: https://catalog.hathitrust.org/Search/Home?lookfor=statutes%20of%20the%20realm&type=title (Volumes with pd/pdus rights codes)
+- Internet Archive: https://archive.org/search.php?query=title%3A%28statutes%20of%20the%20realm%29%20creator%3A%28Great%20Britain%29 (Multiple scans)
+- British History Online: https://www.british-history.ac.uk/statutes-realm (Useful transcriptions; confirm site terms)

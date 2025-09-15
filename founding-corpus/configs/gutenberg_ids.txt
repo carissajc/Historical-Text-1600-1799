@@ -1,0 +1,6 @@
+# Johnson's Dictionary (pick an available edition ID)
+29765
+# The Federalist Papers
+1404
+# Anti-Federalist examples (add more IDs as you pick pamphlets)
+16769 
