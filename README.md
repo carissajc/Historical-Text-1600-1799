@@ -65,7 +65,7 @@ The pipeline integrates multiple historical text sources:
 - **Founders Online** (CC-BY-NC): Revolutionary era documents
 - **Evans-TCP** (Public Domain): Early American imprints
 - **ECCO-TCP** (Public Domain): Eighteenth Century Collections Online
-- **American Stories** (CC-BY-4.0): Historical narratives
+- **American Stories (FARO)** (CC-BY-4.0): Historical narratives from Melissa Dell et al.'s American Stories project (the code refers to this data as FARO)
 - **A Century of Lawmaking** (Public Domain): Congressional documents
 - **Old Bailey** (CC-BY-NC): Court records
 - **British Library Books** (Public Domain): Historical texts
@@ -79,6 +79,23 @@ The pipeline integrates multiple historical text sources:
 4. **Shard**: Split into training-ready chunks
 5. **Train Tokenizer**: Create WordPiece tokenizer
 6. **Report**: Generate statistics and analysis
+
+## Source Acquisition Criteria
+
+- BL Books (British Library Books)
+  - Years: 1730–1779; config: `1700_1799`; language: English; skip empty pages; writes consolidated corpus; converted records drop texts <100 chars.
+
+- American Stories (FARO; Melissa Dell et al.)
+  - Inputs: yearly `faro_*.tar.gz`; year from filename; prefer bbox JSON with `class=='article'` and `raw_text`; min length >100 chars (or >50 for alternative JSON forms); metadata captured (newspaper/state/date/headline/source filename/year/etc.); license CC0.
+
+- Founders Online
+  - Strategies: per-year searches for 1777–1797 using several query URL variants; plus systematic URL pattern exploration across founders/series/volumes; include documents with text >200 chars; best-effort date parse; default to 1777-01-01 if missing; license CC-BY-NC gated by `--allow-nc`.
+
+- Project Gutenberg
+  - IDs from `configs/gutenberg_ids.txt`; tries standard PG text URLs in order; require HTTP 200 and >5,000 chars; strips header/footer; license PublicDomain.
+
+- ECCO-TCP and Evans-TCP (TCP)
+  - Inputs: local nested zip TEI XML; years from `configs/years.yml`; year extraction via regex preferring `<SOURCEDESC><DATE>`; exclude years outside range and modern years; extract `<TEXT>` content; require text >=100 chars; license PublicDomain; outputs `{corpus}_tcp_{start}_{end}.jsonl`.
 
 ## Configuration
 
@@ -239,7 +256,7 @@ The following is an exact, file-based inventory of historical texts and data art
     - `founding-corpus/data_raw/evans_tcp/evans_tcp_1600_1799.jsonl` — 4,570 records
     - `founding-corpus/data_raw/evans_tcp/evans_tcp_1777_1797.jsonl` — 0 records
 
-- Faro de Vigo (yearly JSONL)
+- American Stories (FARO; Melissa Dell et al.)
   - `founding-corpus/data_raw/faro/faro_1770.jsonl` — 185 records
   - `founding-corpus/data_raw/faro/faro_1771.jsonl` — 709 records
   - `founding-corpus/data_raw/faro/faro_1772.jsonl` — 1,710 records
@@ -288,7 +305,7 @@ The following is an exact, file-based inventory of historical texts and data art
   - `founding-corpus/data_clean/evans_tcp.jsonl` — 0 records
   - `founding-corpus/data_clean/evans_tcp_1600_1799.jsonl` — 4,570 records
 
-- Faro de Vigo (yearly JSONL + tarballs)
+- American Stories (FARO; Melissa Dell et al.) (yearly JSONL + tarballs)
   - JSONL per year: `founding-corpus/data_clean/faro_*.jsonl` — counts per file:
     - 1770: 185; 1771: 709; 1772: 1,710; 1773: 1,401; 1774: 1,642; 1777: 874; 1778: 689; 1779: 410; 1791: 115; 1792: 136; 1793: 52
   - Aggregated: `founding-corpus/data_clean/faro_all.jsonl` — 7,923 records
